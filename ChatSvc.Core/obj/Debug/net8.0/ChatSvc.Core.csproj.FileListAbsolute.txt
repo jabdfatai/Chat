@@ -1,0 +1,12 @@
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\bin\Debug\net8.0\ChatSvc.Core.deps.json
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\bin\Debug\net8.0\ChatSvc.Core.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\bin\Debug\net8.0\ChatSvc.Core.pdb
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.AssemblyInfo.cs
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\refint\ChatSvc.Core.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ChatSvc.Core.pdb
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Core\obj\Debug\net8.0\ref\ChatSvc.Core.dll

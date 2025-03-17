@@ -1,0 +1,15 @@
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\bin\Debug\net8.0\SecureCommSvc.Application.deps.json
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\bin\Debug\net8.0\SecureCommSvc.Application.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\bin\Debug\net8.0\SecureCommSvc.Application.pdb
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\bin\Debug\net8.0\SecureCommSvc.Core.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\bin\Debug\net8.0\SecureCommSvc.Core.pdb
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.AssemblyInfo.cs
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCo.0E33A5BD.Up2Date
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\refint\SecureCommSvc.Application.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\SecureCommSvc.Application.pdb
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Application\obj\Debug\net8.0\ref\SecureCommSvc.Application.dll

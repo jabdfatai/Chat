@@ -1,0 +1,12 @@
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\bin\Release\net8.0\SecureCommSvc.Core.deps.json
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\bin\Release\net8.0\SecureCommSvc.Core.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\bin\Release\net8.0\SecureCommSvc.Core.pdb
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.AssemblyInfo.cs
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\refint\SecureCommSvc.Core.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.pdb
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\ref\SecureCommSvc.Core.dll
+C:\Users\JideAbdfatai\source\repos\SecureCommSvc\SecureCommSvc.Core\obj\Release\net8.0\SecureCommSvc.Core.csproj.AssemblyReference.cache

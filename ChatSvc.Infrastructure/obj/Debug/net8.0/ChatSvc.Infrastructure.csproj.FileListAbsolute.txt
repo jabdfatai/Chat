@@ -1,0 +1,15 @@
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\bin\Debug\net8.0\ChatSvc.Infrastructure.deps.json
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\bin\Debug\net8.0\ChatSvc.Infrastructure.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\bin\Debug\net8.0\ChatSvc.Infrastructure.pdb
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\bin\Debug\net8.0\ChatSvc.Core.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\bin\Debug\net8.0\ChatSvc.Core.pdb
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.AssemblyInfo.cs
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc..57144788.Up2Date
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\refint\ChatSvc.Infrastructure.dll
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ChatSvc.Infrastructure.pdb
+C:\Users\JideAbdfatai\Desktop\GitHubSample\ChatAPISample\ChatSvc.Infrastructure\obj\Debug\net8.0\ref\ChatSvc.Infrastructure.dll

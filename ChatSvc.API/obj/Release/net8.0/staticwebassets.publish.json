@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EbbfNy50Hc80jtRg7vFcYUoOafneML4jAnSn5g5S/Lg=",
+  "Source": "SecureCommSvc.API",
+  "BasePath": "_content/SecureCommSvc.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

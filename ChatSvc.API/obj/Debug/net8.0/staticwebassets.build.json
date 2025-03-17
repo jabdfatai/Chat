@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pi/F6gZxz1CkiCwNTdnr9EG0CGa1pKhEryyb5TiBaXU=",
+  "Source": "ChatSvc.API",
+  "BasePath": "_content/ChatSvc.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

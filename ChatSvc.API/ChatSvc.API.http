@@ -1,0 +1,6 @@
+@SecureCommSvc.API_HostAddress = http://localhost:5216
+
+GET {{SecureCommSvc.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
